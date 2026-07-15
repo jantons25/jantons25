@@ -56,10 +56,10 @@ const juanJose = {
 
 | Project | Description | Stack |
 |---|---|---|
-| [🛠 App-HelpDesk](https://github.com/jantons25/App-HelpDesk) | Full-stack task & user management with WhatsApp API | React · Node.js · MongoDB · Python |
-| [🔐 autenticacion-nestjs](https://github.com/jantons25/autenticacion-nestjs) | Auth system with JWT, roles and routing | NestJS · Angular · PostgreSQL · TailwindCSS |
+| [🛠 ZentraApp](https://github.com/jantons25/ZentraApp) | Well Full-stack MongoDB (Mongoose), Node.js, Express.js, React, JWT y arquitectura en capas (Model–Service–Controller–Routes).
 | [⚡ NexusApp](https://github.com/jantons25/NexusApp) | Web application — details coming soon | JavaScript |
-| [🌐 ConsultoraPortocarrero](https://github.com/jantons25/ConsultoraPortocarrero) | Corporate web system | JavaScript |
+| [🌐 ZentraHotel.com](https://github.com/jantons25/zentrahotel.com) | Web application with Next.js and TypeScript|
+| [📬 ConsultoraPortocarrero](https://github.com/jantons25/ConsultoraPortocarrero) | Corporate web system | JavaScript |
 
 ---
 
