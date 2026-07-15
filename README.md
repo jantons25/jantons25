@@ -3,7 +3,7 @@
 ```javascript
 const juanJose = {
   role:     "Full-Stack Developer",
-  location: "Chiclayo, Perú 🇵🇪",
+  location: "Lima, Perú 🇵🇪",
   focus:    ["Web Systems", "API Design", "Clean Architecture"],
   stack:    ["JavaScript", "TypeScript", "React", "Node.js", "NestJS"],
 };
@@ -56,9 +56,9 @@ const juanJose = {
 
 | Project | Description | Stack |
 |---|---|---|
-| [🛠 ZentraApp](https://github.com/jantons25/ZentraApp) | Well Full-stack MongoDB (Mongoose), Node.js, Express.js, React, JWT y arquitectura en capas (Model–Service–Controller–Routes).
+| [🛠 ZentraApp](https://github.com/jantons25/ZentraApp) | Well Full-stack MongoDB (Mongoose), Node.js, Express.js, React, JWT y arquitectura en capas (Model–Service–Controller–Routes) | JavaScript | 
 | [⚡ NexusApp](https://github.com/jantons25/NexusApp) | Web application — details coming soon | JavaScript |
-| [🌐 ZentraHotel.com](https://github.com/jantons25/zentrahotel.com) | Web application with Next.js and TypeScript|
+| [🌐 ZentraHotel.com](https://github.com/jantons25/zentrahotel.com) | Web application with Next.js and TypeScript| TypeScript |
 | [📬 ConsultoraPortocarrero](https://github.com/jantons25/ConsultoraPortocarrero) | Corporate web system | JavaScript |
 
 ---
